@@ -11,7 +11,7 @@ It's a webpage that shows different types of triangles and what they look like.
 You use git clone to be able to download the documents in the GitHub
 
 ## Installation Requirements
-Git
+Git https://github.com/alexizo/Projectalex.git
 
 ### Installation instruction
 ```
