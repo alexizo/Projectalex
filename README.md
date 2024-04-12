@@ -18,7 +18,7 @@ Git clone git@github.com:alexizo/Projectalex.git
 ```
 
 # Live Link
-[Git](gh-pages link)
+https://alexizo.github.io/Projectalex/
 
 ## Technologies used
 HTML
